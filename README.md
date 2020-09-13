@@ -1,7 +1,8 @@
 # MPRG Deep Learning Lecture Notebook
 
-自分のテスト用です.  
+自分のテスト用.  
 画像とdata.zipは変わるので注意.
+編集中以外は非公開にすること
 
 ## PyTorchで作るGCN（中級編5）
 1.  [グラフ表現](https://colab.research.google.com/github/sirakik/MPRGLecture/blob/master/15_gcn/01_graph.ipynb)
