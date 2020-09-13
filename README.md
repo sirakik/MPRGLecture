@@ -58,10 +58,10 @@
 
 
 ## PyTorchで作るGCN（中級編5）
-1.  [グラフ表現](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/01_グラフ表現.ipynb)
-2.  [GCNにノード分類](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/02_Graph_Convolutional_Networksによるノード分類.ipynb)
-3.  [ST-GCNによる動作認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/03_ST-GCNによる動作認識.ipynb)
-4.  [Spatial Temporal Attention GCNによる動作認識](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/04_STA-GCNによる動作認識.ipynb)
-5.  [グラフ生成](https://colab.research.google.com/github/machine-perception-robotics-group/MPRGDeepLearningLectureNotebook/blob/master/15_gcn/05_グラフ生成.ipynb)
+1.  [グラフ表現](https://colab.research.google.com/github/sirakik/MPRGLecture/blob/master/15_gcn/01_グラフ表現.ipynb)
+2.  [GCNにノード分類](https://colab.research.google.com/github/sirakik/MPRGLecture/blob/master/15_gcn/02_Graph_Convolutional_Networksによるノード分類.ipynb)
+3.  [ST-GCNによる動作認識](https://colab.research.google.com/github/sirakik/MPRGLecture/blob/master/15_gcn/03_ST-GCNによる動作認識.ipynb)
+4.  [Spatial Temporal Attention GCNによる動作認識](https://colab.research.google.com/github/sirakik/MPRGLecture/blob/master/15_gcn/04_STA-GCNによる動作認識.ipynb)
+5.  [グラフ生成](https://colab.research.google.com/github/sirakik/MPRGLecture/blob/master/15_gcn/05_グラフ生成.ipynb)
 
 
